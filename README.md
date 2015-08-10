@@ -3,7 +3,7 @@ A simplified pacman implementation in Unity. Suitable for educational purposes a
 
 If you are unsure whether this demo is fit for your educational level, review the following features to get a better picture:
  * GUI
-   * Main, pause, and engame menus
+   * Main, pause, and endgame menus
    * GUI-elements animations
    * Scene transition animations
    * Dynamic HUD
