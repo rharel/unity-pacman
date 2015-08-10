@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ghost
+  - Coin
+  - Powerup
+  - Director
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Waypoint
+  - Path
+  - Ghost
+  - Player
+  - Background
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 810436999
+    locked: 0
+  - name: Path
+    uniqueID: 3149496711
+    locked: 0
+  - name: Item
+    uniqueID: 1404558017
+    locked: 0
+  - name: Ghost
+    uniqueID: 3749207909
+    locked: 0
+  - name: Pacman
+    uniqueID: 2759782601
+    locked: 0

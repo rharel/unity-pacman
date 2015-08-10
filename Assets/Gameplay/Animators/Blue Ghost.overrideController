@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Blue Ghost
+  m_Controller: {fileID: 9100000, guid: 0e56e9e4d5f37a5439da5676e9f267e8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2392371a51dc0db48bbc470455d2380a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9fc8ef215747b2240a48149eef8cb135, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e65a63fc8de20864da521611be92665f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b13d9f415433ccc4aa9a80233e5b286f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9adc6bb4525e69641a979e8d2a0f2652, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 618ace5c8cb5abf4abac5a3f1f5cf0f9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a102492290514dd43b7424d597f9d1fd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4a3e67ecf896c6b4894cfe211c6dc7c4, type: 2}
